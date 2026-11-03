@@ -1,2 +1,6 @@
 # PracticaGitEclipse
-a
+Funcionalidades:
+-a
+-b
+-c
+-d
